@@ -2,34 +2,34 @@
 
 # Modern HTML CSS From The Beginning Course
 
-Welcome to the repository for Modern [HTML CSS From The Beginning Course](https://www.udemy.com/course/modern-html-css-from-the-beginning/). This repository contains multiple projects that demonstrate various concepts learned throughout the course.
+Welcome to the repository for [Modern HTML CSS From The Beginning Course](https://www.udemy.com/course/modern-html-css-from-the-beginning/). This repository contains multiple projects that demonstrate various concepts learned throughout the course.
 
 ---
 
-## Project 1: Bono Landing Page
+## Project 1: Bono Form
 
-- **Live URL:** [View Project 1 Live](https://udemy-html.azimdev.me/leno/index.html#)
-- **GitHub Repo:** [Project 1 Repository](https://github.com/Azim-Islam/Modern-HTML-CSS-From-The-Beginning/tree/main/leno)
+- **Live Website:** [View Live](https://bono-by-sajjadur-rahman.netlify.app/)
+- **GitHub Repository:** [Go To Repository](https://github.com/Sajjad1007/modern-html-and-css/tree/main/01.%20bono-landing-page)
 
 ---
 
 ## Project 2: Lumina Creative
 
-- **Live URL:** [View Project 2 Live](https://udemy-html.azimdev.me/tutor/index.html#home)
-- **GitHub Repo:** [Project 2 Repository](https://github.com/Azim-Islam/Modern-HTML-CSS-From-The-Beginning/tree/main/tutor)
+- **Live Website:** [View Live](https://lumina-creative-by-sajjadur-rahman.netlify.app/)
+- **GitHub Repository:** [Go To Repository](https://github.com/Sajjad1007/modern-html-and-css/tree/main/02.%20lumina-creative)
 
 ---
 
 ## Project 3: Tutor Website
 
-- **Live URL:** [View Project 3 Live](https://udemy-html.azimdev.me/lumina-creative/index.html)
-- **GitHub Repo:** [Project 3 Repository](https://github.com/Azim-Islam/Modern-HTML-CSS-From-The-Beginning/tree/main/lumina-creative)
+- **Live Website:** [View Live](https://tutor-by-sajjadur-rahman.vercel.app/)
+- **GitHub Repository:** [Go To Repository](https://github.com/Sajjad1007/modern-html-and-css/tree/main/03.%20tutor-website)
 
 ---
 
-## Project 4: BEM Leno Website
+## Project 4: Leno Website
 
-- **Live URL:** [View Project 4 Live](https://udemy-html.azimdev.me/bono-landing-form/index.html)
-- **GitHub Repo:** [Project 4 Repository](https://github.com/Azim-Islam/Modern-HTML-CSS-From-The-Beginning/tree/main/bono-landing-form)
+- **Live Website:** [View Live](https://leno-by-sajjadur-rahman.netlify.app/)
+- **GitHub Repository:** [Go To Repository](https://github.com/Sajjad1007/modern-html-and-css/tree/main/04.%20-leno-website)
 
 ---
