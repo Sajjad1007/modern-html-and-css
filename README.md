@@ -9,7 +9,7 @@ Welcome to the repository for [Modern HTML CSS From The Beginning Course](https:
 ## Project 1: Bono Form
 
 - **Live Website:** [View Live](https://bono-by-sajjadur-rahman.netlify.app/)
-- **GitHub Repository:** [Go To Repository](https://github.com/Sajjad1007/modern-html-and-css/tree/main/01.%20bono-landing-page)
+- **GitHub Repository:** [Go To Repository](https://github.com/Sajjad1007/modern-html-and-css/tree/main/01.%20bono-form)
 
 ---
 
@@ -30,6 +30,6 @@ Welcome to the repository for [Modern HTML CSS From The Beginning Course](https:
 ## Project 4: Leno Website
 
 - **Live Website:** [View Live](https://leno-by-sajjadur-rahman.netlify.app/)
-- **GitHub Repository:** [Go To Repository](https://github.com/Sajjad1007/modern-html-and-css/tree/main/04.%20-leno-website)
+- **GitHub Repository:** [Go To Repository](https://github.com/Sajjad1007/modern-html-and-css/tree/main/04.%20leno-website)
 
 ---
