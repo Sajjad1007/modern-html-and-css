@@ -141,7 +141,7 @@ img {
 
 /* Hero */
 .hero {
-  background: #000 url("../images/header-background.jpg") center center/cover
+  background: #000 url("../assets/header-background.jpg") center center/cover
     no-repeat;
   padding: 11.5rem 2rem 8rem;
 }
@@ -290,7 +290,7 @@ img {
 
 /* Preview */
 .preview {
-  background: url("../images/video-background.jpg") center center/cover
+  background: url("../assets/video-background.jpg") center center/cover
     no-repeat;
 }
 
