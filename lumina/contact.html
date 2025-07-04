@@ -13,7 +13,7 @@
     rel="stylesheet" />
   <link rel="stylesheet" href="css/styles.css" />
   <link rel="icon" href="assets/favicon.ico" />
-  <title>About Lumina Creative</title>
+  <title>Contact Lumina Creative</title>
 </head>
 
 <body>
@@ -23,74 +23,50 @@
       <nav>
         <ul class="main-menu">
           <li><a href="/">Home</a></li>
-          <li><a class="current" href="about.html">About</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a class="current" href="contact.html">Contact</a></li>
         </ul>
       </nav>
     </div>
   </header>
 
-  <section class="hero">
+  <section class="hero bg-dark">
     <div class="container container-sm">
       <h2>
-        <span class="bg-primary"> Inspired</span> minds, shaping exceptional
-        projects fueled by <span class="bg-primary">ingenuity</span>
+        <span class="bg-primary">Enthusiastic</span> thinkers, creating unique
+        endeavors powered by <span class="bg-primary">creativity</span>
       </h2>
     </div>
   </section>
 
-  <section class="services bg-dark">
-    <div class="container">
-      <h2 class="section-heading">Our Services</h2>
-      <div class="services-flex">
-        <div class="service-item">
-          <h4>Photography</h4>
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque
-            illum eius laboriosam delectus omnis veniam aspernatur pariatur
-            magnam labore dolor.
-          </p>
+  <section class="contact">
+    <div class="container container-sm">
+      <h2 class="section-heading">Contact Us</h2>
+      <p>
+        Have a question? Leave your information below and we will get back to
+        you as soon as possible.
+      </p>
+      <form name="contact" netlify>
+        <div class="form-group">
+          <label for="first-name" class="visually-hidden">First Name</label>
+          <input type="text" id="first-name" name="first-name" placeholder="First Name" />
         </div>
-        <div class="service-item">
-          <h4>Web Design</h4>
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque
-            illum eius laboriosam delectus omnis veniam aspernatur pariatur
-            magnam labore dolor.
-          </p>
+        <div class="form-group">
+          <label for="last-name" class="visually-hidden">Last Name</label>
+          <input type="text" id="last-name" name="last-name" placeholder="Last Name" />
         </div>
-        <div class="service-item">
-          <h4>Graphic Design</h4>
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque
-            illum eius laboriosam delectus omnis veniam aspernatur pariatur
-            magnam labore dolor.
-          </p>
+        <div class="form-group">
+          <label for="email" class="visually-hidden">Email Address</label>
+          <input type="email" id="email" name="email" placeholder="Email Address" />
         </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="team">
-    <div class="container container-lg">
-      <h2 class="section-heading">Our Team</h2>
-      <div class="team-flex">
-        <div class="team-item">
-          <img src="assets/team1.jpg" alt="Team Member" />
-          <h4>Kevin Samson</h4>
-          <p>Founder</p>
+        <div class="form-group">
+          <label for="message" class="visually-hidden">Message</label>
+          <textarea id="message" name="message" placeholder="Message"></textarea>
         </div>
-        <div class="team-item">
-          <img src="assets/team2.jpg" alt="Team Member" />
-          <h4>Rebecca Williams</h4>
-          <p>Designer</p>
+        <div class="form-group">
+          <button type="submit" class="btn">Send Message</button>
         </div>
-        <div class="team-item">
-          <img src="assets/team3.jpg" alt="Team Member" />
-          <h4>Ben Markson</h4>
-          <p>Designer/Developer</p>
-        </div>
-      </div>
+      </form>
     </div>
   </section>
 
